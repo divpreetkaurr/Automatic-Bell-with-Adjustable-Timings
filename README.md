@@ -57,14 +57,14 @@ This system replaces manual bell ringing with an automatic solution. The user se
 
 ## 📸 Images / Circuit Diagram
 ![image](https://github.com/user-attachments/assets/8e3a0596-ae40-45c8-9483-63c436ed5445)
-circuit daigram
+
 ![image](https://github.com/user-attachments/assets/ee565642-91ee-4de0-8aff-8a211bfbf943)
-when system is connected to USB 
+
 ![image](https://github.com/user-attachments/assets/fc5df523-16df-43e5-99e1-bbb18d2b6bbe)
-On pressing *, this menu appears
+
 ![image](https://github.com/user-attachments/assets/31c8d9ff-dd82-40d0-b6ee-e4a8581c705c)
-on pressing 1, setting of date and time is done via keypad
+
 ![image](https://github.com/user-attachments/assets/a5c65f26-82b0-45d9-a4b5-b7b766b52d6c)
-enter number of bells you want to buzz
+
 
 ---
