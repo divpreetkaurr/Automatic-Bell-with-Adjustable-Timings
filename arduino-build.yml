@@ -1,0 +1,33 @@
+
+---
+
+## 🚀 How to Use
+
+1. Upload the `.ino` file to your Arduino Uno using Arduino IDE.
+2. Connect all components as per the circuit.
+3. Use the keypad to:
+   - Set current date and time.
+   - Add multiple bell times.
+4. Once set, the system runs automatically!
+
+---
+
+## 📜 License
+
+This project is open-source under the **MIT License**. Feel free to use, modify, and share with attribution.
+
+---
+
+## 🙋‍♀️ Author
+
+👩‍💻 **Divpreet Kaur**  
+📌 MCA AI/ML | Project Enthusiast  
+🔗 [LinkedIn](https://www.linkedin.com/in/divpreetkaurr) | [GitHub](https://github.com/divpreetkaurr)
+
+---
+
+## 🌟 Support
+
+If you like this project, give it a ⭐ on GitHub!  
+Feel free to fork or contribute.
+
